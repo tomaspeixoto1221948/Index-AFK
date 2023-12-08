@@ -35,7 +35,7 @@ With these functionalities, the script enables a hands-free approach to Index fa
 ### Setup in Warframe:
 
 1. **Ensure Warframe Build Compatibility:**
-   - Make sure your Warframe is configured with the necessary build. Refer to the [required build documentation](https://docs.google.com/document/d/13y8HIYBsi1WiY0JfO6mSLHENbd34LKn3iz9RwsVikw0/edit) for details.
+   - Make sure your Warframe is configured with the necessary build. Refer to the [required build documentation](https://docs.google.com/document/d/1ANSSjoGIc2S7QNLg3LZ1W_TViReyjQKSjjjv5tgmAOg/edit?usp=sharing) for details.
 
 2. **Additional Settings:**
    - Set Warframe to windowed mode.
