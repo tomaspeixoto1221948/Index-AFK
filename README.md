@@ -35,7 +35,7 @@ With these functionalities, the script enables a hands-free approach to Index fa
 ### Setup in Warframe:
 
 1. **Ensure Warframe Build Compatibility:**
-   - Make sure your Warframe is configured with the necessary build. Refer to the [required build documentation](https://docs.google.com/document/d/1ANSSjoGIc2S7QNLg3LZ1W_TViReyjQKSjjjv5tgmAOg/edit?usp=sharing) for details.
+   - Make sure your Warframe is configured with the necessary build. Refer to the [required build documentation](https://tinyurl.com/the-ultimate-afk-index-guide) for details.
 
 2. **Additional Settings:**
    - Set Warframe to windowed mode.
