@@ -37,7 +37,11 @@ With these functionalities, the script enables a hands-free approach to Index fa
 1. **Ensure Warframe Build Compatibility:**
    - Make sure your Warframe is configured with the necessary build. Refer to the [required build documentation](https://docs.google.com/document/d/13y8HIYBsi1WiY0JfO6mSLHENbd34LKn3iz9RwsVikw0/edit) for details.
 
-2. **Configure In-Game Keybindings:**
+2. **Additional Settings:**
+   - Set Warframe to windowed mode.
+   - Adjust the resolution to 1920 x 1080.
+
+3. **Configure In-Game Keybindings:**
    - Set the following keys in your Warframe game settings:
       - (Sprint / Dodge): `Shift`
       - (Move Forward): `W`
@@ -46,17 +50,17 @@ With these functionalities, the script enables a hands-free approach to Index fa
       - (Reload): `R`
       - (Focus and Transference): `6`
 
-3. **Navigate to the Dojo:**
+4. **Navigate to the Dojo:**
    - Go to your Warframe Dojo.
 
-4. **Launch the Index AFK Script:**
+5. **Launch the Index AFK Script:**
    - Double-click the "start - Shortcut" within the designated location.
    - Run the "Index AFK" script.
 
-5. **In-Game Activation:**
+6. **In-Game Activation:**
    - In Warframe in dojo, press `Ctrl + J` to activate the script.
 
-6. **Stopping the Script:**
+7. **Stopping the Script:**
    - To stop the script, press `Ctrl + O`.
    - Wait a few minutes for the script to conclude. (You can press this during a mission, and it will quit in the next round.)
 
