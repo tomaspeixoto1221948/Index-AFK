@@ -21,7 +21,7 @@ With these functionalities, the script enables a hands-free approach to Index fa
 ### Setup Before Warframe:
 
 1. **Download the Script:**
-   - [Download the Index AFK ](https://github.com/Tom25JSP/Index-AFK/releases/download/Aspect_25/Index.AFK.v1.0.zip)
+   - [Download the Index AFK ](https://github.com/Tom25JSP/Index-AFK/releases/download/a/Index.AFK.v1.1.zip)
    - Extract the downloaded file to a location on your PC.
    - Place the start - Shortcut where you want it on your PC for easy access.
 
