@@ -28,8 +28,9 @@ With these functionalities, the script enables a hands-free approach to Index fa
 2. **Install AutoHotKey (AHK):**
    - [Download and install AutoHotKey](https://www.autohotkey.com/)
 
-3. **Adjust Monitor Resolution:**
+3. **Adjusts in Windows:**
    - Set your monitor resolution in Windows to 1920 x 1080 for optimal performance.
+   - Set your mouse dpis to 1200
 
 
 ### Setup in Warframe:
@@ -40,6 +41,7 @@ With these functionalities, the script enables a hands-free approach to Index fa
 2. **Additional Settings:**
    - Set Warframe to windowed mode.
    - Adjust the resolution to 1920 x 1080.
+   - Set all sensitivity to 5
 
 3. **Configure In-Game Keybindings:**
    - Set the following keys in your Warframe game settings:
@@ -61,8 +63,12 @@ With these functionalities, the script enables a hands-free approach to Index fa
    - In Warframe in dojo, press `Ctrl + J` to activate the script.
 
 7. **Stopping the Script:**
-   - To stop the script, press `Ctrl + O`.
-   - Wait a few minutes for the script to conclude. (You can press this during a mission, and it will quit in the next round.)
+   - To stop the script, press `Ctrl + o`.
+   - Will close the script
+
+8. **Quit in the next round**
+   - To stop the script, press `Ctrl + o`.
+   - Wait a few minutes for the script to conclude. (You can press this during a mission, and it will quit in the next round and close the scripts after.)
 
 
 ### Need Help?

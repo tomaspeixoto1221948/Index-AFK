@@ -44,7 +44,29 @@ ToggleScript:
             ExitApp
             }
     }
-    
+
+
+^u::
+    leave2 := !leave2
+        if (leave2){
+            CenteredToolTip("On")
+        }
+        else {
+            CenteredToolTip("Off")
+        }
+
+    Sleep 2000    
+    DetectHiddenWindows, On
+                WinGet, AHKList, List, ahk_class AutoHotkey
+                Loop, %AHKList%
+                {
+                    ID := AHKList%A_Index%
+                    If (ID <> A_ScriptHwnd)
+                        WinClose, ahk_id %ID%
+                }
+                Send {Esc}
+                ExitApp
+        
 
 CenteredToolTip(text, duration = 999){ ; Duration in ms (MilliSeconds). Default value can be optionally overridden
     ToolTip, %text%, A_ScreenWidth/2, A_ScreenHeight/2

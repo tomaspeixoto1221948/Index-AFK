@@ -16,27 +16,27 @@
     While (afk){
         Random, rand, 0, 100
         Send {ESC}
-        Sleep 1000 + rand
+        Sleep 5000 + rand
         MouseMove 410, 380
-        Sleep 1000 + rand
+        Sleep 5000 + rand
+        Click
+        Sleep 10000 + rand
+        Send {ESC}
+        Sleep 5000 + rand
+        MouseMove 1400, 860
+        Sleep 5000 + rand
         Click
         Sleep 5000 + rand
-        Send {ESC}
-        Sleep 1000 + rand
-        MouseMove 1400, 860
-        Sleep 1000 + rand
-        Click
-        Sleep 1000 + rand
         MouseMove, 985, 565
-        Sleep 1000 + rand
+        Sleep 5000 + rand
         Click
-        Sleep 1000 + rand
+        Sleep 5000 + rand
         MouseMove, 1560, 890
-        Sleep 1000 + rand
+        Sleep 5000 + rand
         Click
-        Sleep 1000 + rand
+        Sleep 5000 + rand
         MouseMove, 750, 600 
-        Sleep 1000 + rand
+        Sleep 5000 + rand
         Click
         Sleep 5000 + rand
 
@@ -70,9 +70,7 @@
             Send {Space} ; change "Space" to your (Jump) key
             Sleep 600
             Send {Space} ; change "Space" to your (Jump) key
-            Sleep 600
-            Send {Space} ; change "Space" to your (Jump) key
-            Sleep 1000
+            Sleep 2700
             Send {Shift up}{w up} ; change "Shift" to your (Sprint / Dodge) key and change "w" to your (Move Forward) key 
             MouseGetPos startX, startY
             newEndX := startX + 25
