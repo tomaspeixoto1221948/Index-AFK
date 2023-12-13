@@ -63,7 +63,7 @@ With these functionalities, the script enables a hands-free approach to Index fa
    - In Warframe in dojo, press `Ctrl + J` to activate the script.
 
 7. **Stopping the Script:**
-   - To stop the script, press `Ctrl + o`.
+   - To stop the script, press `Ctrl + u`.
    - Will close the script
 
 8. **Quit in the next round**

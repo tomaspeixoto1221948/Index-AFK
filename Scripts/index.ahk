@@ -70,7 +70,7 @@
             Send {Space} ; change "Space" to your (Jump) key
             Sleep 600
             Send {Space} ; change "Space" to your (Jump) key
-            Sleep 2700
+            Sleep 3800
             Send {Shift up}{w up} ; change "Shift" to your (Sprint / Dodge) key and change "w" to your (Move Forward) key 
             MouseGetPos startX, startY
             newEndX := startX + 25
